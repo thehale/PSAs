@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="wrapper post">
+    <main class="page-content" aria-label="Content">
+        <article>
+            <header class="header">
+                <h1 class="header-title">📢 {{ .Title }}</h1>
+            </header>
+            {{ partial "toc.html" .}}
+            <div class="page-content">
+                {{ .Content }}
+            </div>
+        </article>
+        {{- partial "comments.html" . -}}
+    </main>
+</div>
+{{ end }}
