@@ -1,6 +1,7 @@
 +++
 title = 'Purely Personal'
 slug = 'purely-personal'
+date = 2024-05-09T01:18:39-07:00
 type = "psa"
 draft = true
 [[resources]]
