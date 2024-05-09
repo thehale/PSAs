@@ -1,17 +1,22 @@
+{{ $alt_text := replace ( .Get "slug") "-" " " | title }}
+{{ $slug := ( .Get "slug" ) }}
+{{ $article_url := ( absURL $slug ) }}
+{{ $badge_url := ( absURL ( printf "%s%s" $slug "/badge.svg" ) ) }}
+
 ## Maintainers
 
 Here's how to add the badge for this Public Service Announcement to your README
 
-[![](badge.svg)]({{ .Get "slug" }}.md)
+[![](badge.svg)]({{ $slug }}.md)
 
 **Markdown**
 ```
-[![{{ replace ( .Get "slug") "-" " " | title }}]({{ .Page.Site.BaseURL }}{{ .Get "slug" }}/badge.svg)]({{ .Page.Site.BaseURL }}{{ .Get "slug" }})
+[![{{ $alt_text }}]({{ $badge_url }})]({{ $article_url }})
 ```
 
 **ReStructured text**
 ```
-.. image:: {{ .Page.Site.BaseURL }}{{ .Get "slug" }}/badge.svg
-  :target: {{ .Page.Site.BaseURL }}{{ .Get "slug" }}
-  :alt: {{ replace ( .Get "slug") "-" " " | title }}
+.. image:: {{ $badge_url }}
+  :target: {{ $article_url }}
+  :alt: {{ $alt_text }}
 ```
