@@ -1,5 +1,6 @@
 +++
 title = 'My First PSA'
+type = "psa"
 draft = true
 +++
 

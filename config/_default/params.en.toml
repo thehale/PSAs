@@ -1,0 +1,5 @@
+sitename = "Public Service Announcements"
+
+[author]
+  name = "Public Service Announcements"
+  description = "Template status update announcements for open-source maintainers"

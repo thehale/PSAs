@@ -1,0 +1,20 @@
+sitename = "Public Service Announcements"
+rssFeedDescription = "summary"
+mainSections = ["psa"]
+copyrightHolder = "Joseph Hale"
+
+[author]
+  avatar = "avatar.png"
+
+
+[[socialIcons]]
+name = "GitHub"
+url = "https://github.com/thehale/PSAs"
+
+[[socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=thehale"
+
+[[socialIcons]]
+name = "RSS"
+url = "/index.xml"
