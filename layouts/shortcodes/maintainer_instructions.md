@@ -7,7 +7,7 @@
 
 Here's how to add the badge for this Public Service Announcement to your README
 
-[![](badge.svg)]({{ $slug }}.md)
+[![](badge.svg)]({{ $article_url }})
 
 **Markdown**
 ```
