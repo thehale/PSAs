@@ -22,23 +22,7 @@ author(s) of that project want you to know:
  - The code is open-source, so feel free to make a fork to resolve any
    shortcomings for your needs. (remember to give credit where it's due)
 
-## Maintainers
-
-Here's how to add the badge for this Public Service Announcement to your README
-
-[![](badge.svg)](no-maintenance-intended.md)
-
-**Markdown**
-```
-[![No Maintenance Intended](https://PSAs.dev/no-maintenance-intended/badge.svg)](https://PSAs.dev/no-maintenance-intended)
-```
-
-**ReStructured text**
-```
-.. image:: https://PSAs.dev/no-maintenance-intended/badge.svg
-  :target: https://PSAs.dev/no-maintenance-intended
-  :alt: No Maintenance Intended
-```
+{{% maintainer_instructions slug="no-maintenance-intended" %}}
 
 ---
 
