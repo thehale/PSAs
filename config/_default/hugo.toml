@@ -1,4 +1,4 @@
-baseURL = 'https://PSAs.jhale.dev/'
+baseURL = 'https://psas.dev/'
 languageCode = 'en-us'
 title = 'Public Service Announcements'
 theme = 'hugo-blog-awesome'

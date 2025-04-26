@@ -18,18 +18,18 @@ Just add badges to your README for whichever PSA applies to your project.
 
 For example...
 
-[![Purely Personal](https://PSAs.jhale.dev/purely-personal/badge.svg)](https://PSAs.jhale.dev/purely-personal)
+[![Purely Personal](https://psas.dev/purely-personal/badge.svg)](https://psas.dev/purely-personal)
 ```markdown
-[![Purely Personal](https://PSAs.jhale.dev/purely-personal/badge.svg)](https://PSAs.jhale.dev/purely-personal)
+[![Purely Personal](https://psas.dev/purely-personal/badge.svg)](https://psas.dev/purely-personal)
 ```
 
 [![No Maintenance
-Intended](https://PSAs.jhale.dev/no-maintenance-intended/badge.svg)](https://PSAs.jhale.dev/no-maintenance-intended)
+Intended](https://psas.dev/no-maintenance-intended/badge.svg)](https://psas.dev/no-maintenance-intended)
 ```markdown
-[![No Maintenance Intended](https://PSAs.jhale.dev/no-maintenance-intended/badge.svg)](https://PSAs.jhale.dev/no-maintenance-intended)
+[![No Maintenance Intended](https://psas.dev/no-maintenance-intended/badge.svg)](https://psas.dev/no-maintenance-intended)
 ```
 
-See the full list of available announcements at https://PSAs.jhale.dev.
+See the full list of available announcements at https://psas.dev.
 
 ## Contributing
 
