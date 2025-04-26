@@ -3,7 +3,7 @@
 {{ $article_url := ( absURL $slug ) }}
 {{ $badge_url := ( absURL ( printf "%s%s" $slug "/badge.svg" ) ) }}
 
-## Add this badge to your project
+## {{ T "maintainer_instructions.heading" }}
 
 [![](badge.svg)]({{ $article_url }})
 
