@@ -25,7 +25,7 @@ start developing!
 
 1. Make a copy of an existing badge
 2. Edit the text to the new announcement
-   - Use the standard `Sans` font, size 10, bold face
+   - Use the standard `Verdana` font, size 10, bold face, no stroke.
    - Resize the gray bounding box to look nice (e.g. a few pixels of padding on
      the left/right)
 3. Convert the text to a path
