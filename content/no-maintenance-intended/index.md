@@ -10,10 +10,10 @@ type = "psa"
 
 ## Visitors
 
-Thanks for your interest in using open-source software!
+Thanks for your interest in using open-source software! You're probably here
+because a project linked to this page.
 
-You're probably here because a project linked to this page. Here's what the
-author(s) of that project want you to know:
+Here's what the author(s) of that project want you to know:
  - You are welcome to use the code, provided you follow the license terms.
  - The code is provided as-is.
     - No features are guaranteed to be added.
