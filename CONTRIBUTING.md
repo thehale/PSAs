@@ -1,3 +1,15 @@
+## Environment Setup
+
+1. Download a [Hugo](https://gohugo.io/installation/) binary to `./hugo`
+   (v0.147.0 or later)
+    - Ubuntu: `make setup-ubuntu`
+2. Pull all the git submodules: `git submodule update --init --recursive`
+3. Run the site locally: `make run` -> https://localhost:1313
+
+Hugo auto-reloads the site to match your local changes, so you are ready to
+start developing!
+
+
 ## Adding a new announcement
 
 1. Choose a title for your announcement in [kebab-case](https://developer.mozilla.org/en-US/docs/Glossary/Kebab_case) (e.g. `my-custom-announcement`)
