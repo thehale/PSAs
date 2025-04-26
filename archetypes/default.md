@@ -9,8 +9,6 @@ draft = true
   name = "badge"
 +++
 
-## Visitors
-
 Thanks for your interest in using open-source software! You're probably here
 because a project linked to this page.
 

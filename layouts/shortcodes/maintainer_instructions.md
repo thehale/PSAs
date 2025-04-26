@@ -3,9 +3,7 @@
 {{ $article_url := ( absURL $slug ) }}
 {{ $badge_url := ( absURL ( printf "%s%s" $slug "/badge.svg" ) ) }}
 
-## Maintainers
-
-Here's how to add the badge for this Public Service Announcement to your README
+## Add this badge to your project
 
 [![](badge.svg)]({{ $article_url }})
 
