@@ -3,7 +3,6 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 slug = '{{ .File.ContentBaseName }}'
 date = {{ .Date }}
 type = "psa"
-draft = true
 [[resources]]
   src = "badge.svg"
   name = "badge"
