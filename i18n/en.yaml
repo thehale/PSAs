@@ -1,2 +1,5 @@
 - id: "maintainer_instructions.heading"
   translation: "Add this badge to your project"
+
+- id: "footer.disclaimer"
+  translation: "<a href=\"https://jhale.dev\" target=\"_blank\" rel=\"noopener\">Learn more about Joseph's work</a>"

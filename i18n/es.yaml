@@ -1,2 +1,5 @@
 - id: "maintainer_instructions.heading"
   translation: "Añada esta insignia a su proyecto"
+
+- id: "footer.disclaimer"
+  translation: "<a href=\"https://jhale.dev\" target=\"_blank\" rel=\"noopener\">Aprenda más sobre los proyectos de Joseph</a>"
